@@ -1,0 +1,5 @@
+volumes
+docker/docker-compose.override.yml
+.idea
+middleware/clients.json
+docker/resources/nginx/lua/white_list
